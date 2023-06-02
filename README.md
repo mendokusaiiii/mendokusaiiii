@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Victor e sou estudante de Desenvolvimento Web FullStack pela Trybe! <br>Atualmente estou buscando a minha primeria oportunidade como DEV.<br>Vou utilizar o meu github para subir alguns dos projetos que já fiz na Trybe!
+Olá, meu nome é Victor e sou Desenvolvedor Back-End <br>Atualmente estou buscando a minha primeria oportunidade como Densenvolvedor.<br>Vou utilizar o meu github para subir alguns dos projetos que tenho feito ao longo da minha jornada. Sinta-se a vontade para olhar os meus projetos e tambem pode entrar em contato comigo!
 
 
 ## 🌐 Socials:
