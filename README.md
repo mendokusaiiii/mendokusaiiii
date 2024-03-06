@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Victor e sou Desenvolvedor Android<br>Atualmente atuando como desenvolvedor Android(Java| Kotlin).<br>No meu github estão alguns dos projetos que realizei. <br>Sinta-se a vontade para olhar os meus projetos e tambem pode entrar em contato comigo!<br><br>Informações:<br><br>🏠 Moro em Curitiba- PR - Brasil;<br><br>🌱 Atualmente estou aprendendo Go pela Udemy<br><br>❤ Apaixonado por Desenvolvimento Back-End!<br>
+Olá, meu nome é Victor e sou Desenvolvedor Android<br>Atualmente atuando como desenvolvedor Android(Java| Kotlin).<br>No meu github estão alguns dos projetos que realizei. <br>Sinta-se a vontade para olhar os meus projetos e tambem pode entrar em contato comigo!<br><br>Informações:<br><br>🏠 Moro em Curitiba- PR - Brasil;<br><br>🌱 Atualmente estou aprendendo Jetpack pela Udemy<br><br>❤ Apaixonado por Desenvolvimento Back-End!<br>
 
 
 ## 🌐 Socials:
