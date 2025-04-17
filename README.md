@@ -1,30 +1,70 @@
-# 💫 About Me:
-Olá, meu nome é Victor e sou Desenvolvedor Android<br>Atualmente atuando como desenvolvedor Android(Java| Kotlin).<br>No meu github estão alguns dos projetos que realizei. <br>Sinta-se a vontade para olhar os meus projetos e tambem pode entrar em contato comigo!<br><br>Informações:<br><br>🏠 Moro em Curitiba- PR - Brasil;<br><br>🌱 Atualmente estou aprendendo Jetpack pela Udemy<br><br>❤ Apaixonado por Desenvolvimento Back-End!<br>
+# Hi, I'm Victor! 👋
 
+I'm a passionate **Android Developer** dedicated to crafting high-performance, user-friendly mobile applications that make a difference. Specializing in **Kotlin** and **Java**, I excel at building scalable, innovative Android apps using modern tools like **Jetpack Compose**, **Firebase**, and **WebSockets** for real-time features. My love for Android drives me to create seamless UI/UX and robust solutions, while my full-stack skills, including **Spring Boot** and **Vue.js**, enable me to build end-to-end systems that complement mobile experiences.
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-alejandro-orellana/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mendokusaiiii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mendokusaiiii&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mendokusaiiii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mendokusaiiii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mendokusaiiii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+🌟 **Why Android?** I’m inspired by Android’s global reach and flexibility, and I’m committed to leveraging its ecosystem to deliver cutting-edge apps that solve real-world problems with elegance and efficiency.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mendokusaiiii&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Core Skills
+
+- **Android Development**:
+
+  - Proficient in **Kotlin** and **Java** for building robust, scalable apps.
+  - Expertise in **Jetpack Compose**, **RecyclerView**, **Fragments/Activities**, and **LiveData/MutableLiveData** for dynamic, responsive UI.
+  - Skilled in **Firebase** (Crashlytics, Remote Config) for real-time error tracking and dynamic updates.
+  - Experienced with **Room**, **SharedPreferences**, and **SQLite** for efficient offline data persistence.
+  - Integration of **RESTful APIs** with **Retrofit** and **OkHttp**, handling JSON for seamless server communication.
+  - Implementation of **WebView** for in-app web content and payment gateways.
+  - Knowledge of **WebSockets** and **STOMP** for real-time communication in Android apps.
+  - Familiar with **In-App Updates API** to ensure users stay on the latest app version.
+
+- **Architecture & Tools**:
+
+  - Strong use of **MVVM** and **MVI** architectures for modular, maintainable code.
+  - Proficient in **Dagger2** for dependency injection.
+  - Experienced with **CI/CD** pipelines using **GitLab CI**, **Jenkins**, and **Fastlane** for continuous delivery.
+  - Skilled in **Gradle** configuration and **Play Store** app publishing.
+  - Knowledge of **Git** for version control and collaborative development.
+
+- **Backend & Full-Stack**:
+
+  - Backend development with **Spring Boot**, **Ktor**, and **PostgreSQL** for scalable APIs.
+  - Real-time systems using **Spring WebSocket** and **STOMP** for chat and notifications.
+  - Frontend experience with **Vue.js**, **React**, and frameworks like **PrimeVue** and **Vuetify**.
+  - Familiar with **Docker**, **AWS**, **HikariCP**, **Exposed**, and **H2** for deployment and database management.
+  - Exposure to **Go** and **Bluetooth/Wi-Fi** integrations in Android apps.
+
+- **Practices**:
+
+  - Writing **automated tests** and performing code reviews for quality assurance.
+  - Adopting **SCRUM** methodologies for agile development.
+  - Building **whitelabel** solutions for customizable, shared codebases.
+
+---
+
+## 💡 What I’m Passionate About
+
+- **Android Innovation**: I’m excited to explore the latest Android advancements, from Material Design 3 to Coroutines and Flow, to create apps that are both functional and delightful.
+- **Real-Time Features**: I love implementing real-time functionalities, like WebSocket-based chat systems, to enhance user engagement in Android apps.
+- **Problem-Solving**: I thrive on tackling complex challenges, whether optimizing app performance, debugging intricate issues, or designing scalable backend systems.
+- **Open-Source & Learning**: I’m eager to contribute to the Android community and stay updated with emerging tools and frameworks.
+
+---
+
+## 🛠️ Featured Projects
+
+- **Real-Time Chat Backend (WebSocket)**: Built a scalable backend for a real-time chat application using **Kotlin**, **Spring Boot**, and **Spring WebSocket** with **STOMP**. Features include public chat broadcasts, user join/leave notifications, and a dynamic online user list, with thread-safe user management via **ConcurrentHashMap**. Integrated error handling for duplicate usernames and used **SockJS** for client compatibility. This backend supports real-time features for potential Android frontends.
+- **Android App Project**: Developed a high-performance Android app using **Kotlin**, **Jetpack Compose**, and **Firebase**, focusing on real-time data syncing for a seamless user experience.
+- **Ktor Backend for Mobile**: Created a lightweight **Ktor** backend with **Koin** and **H2** for an Android app, supporting user authentication via **JWT** and activity management.
+
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn**: https://www.linkedin.com/in/victor-alejandro-orellana
+
+---
+
+🔥 **Fun Fact**: When I’m not coding Android apps or building real-time backends, I’m lifting weights! Let’s create the next great Android app together!
